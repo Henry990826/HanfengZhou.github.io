@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hanfeng(Henry) Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Life if long Theta"
+  location         : " Beijing, 100190, China"
+  employer         : "AMSS Center for Forecasting Science, Chinese Academy of Science"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhouhanfeng675@gmail.com" 
 
   # Academic websites
   academia         : # URL
